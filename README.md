@@ -77,14 +77,20 @@
 
   
 # 📊 GitHub Stats:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imVaibhavPal&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imVaibhavPal&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imVaibhavPal&theme=tokyo-night" />
+</p>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=imVaibhavPal&theme=tokyonight&hide_border=true)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imVaibhavPal&theme=tokyo-night)](https://github.com/imVaibhavPal)
 ![](https://komarev.com/ghpvc/?username=imVaibhavPal&style=flat-square&color=blue)
 
 
-## 📋 GitHub Summary
+## 📋 GitHub Profile Summary
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imVaibhavPal&theme=tokyonight"/>
@@ -110,7 +116,7 @@
 
 ## 🌐 Coding Profiles
 
-<p align="center">
+<p align="left">
 
 <a href="https://leetcode.com/u/vaibhavkumarPal2003/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -121,20 +127,6 @@
 </a>
 </p>
 
-
-
-
-
-
-
-
-
-
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=imVaibhavPal&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
 ## ⭐ Support
 
