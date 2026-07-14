@@ -79,15 +79,16 @@
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imVaibhavPal&show_icons=true&theme=tokyonight&hide_border=true)
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imVaibhavPal&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imVaibhavPal&layout=compact&theme=tokyonight&hide_border=true"/>
 ![GitHub Streak](https://streak-stats.demolab.com?user=imVaibhavPal&theme=tokyonight&hide_border=true)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imVaibhavPal&theme=tokyo-night)](https://github.com/imVaibhavPal)
-[![trophy](https://github-profile-trophy.vercel.app/?username=imVaibhavPal&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true)]
 ![](https://komarev.com/ghpvc/?username=imVaibhavPal&style=flat-square&color=blue)
 ![Snake animation](https://raw.githubusercontent.com/imVaibhavPal/imVaibhavPal/output/github-contribution-grid-snake-dark.svg)
 
+## 📋 GitHub Summary
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imVaibhavPal&theme=tokyonight"/>
+</p>
 
 ## 📫 Connect With Me
 
