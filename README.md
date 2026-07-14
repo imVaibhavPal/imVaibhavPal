@@ -57,15 +57,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,Render" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=imVaibhavPal&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
-## 📈 Contribution Graph
-
-[![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imVaibhavPal&theme=tokyo-night)](https://github.com/imVaibhavPal)
 
 ## 🎯 Goals for 2026
 
