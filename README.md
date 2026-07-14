@@ -1,6 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1A1B27,30:24283B,70:3B4261,100:7AA2F7&text=Hi%20👋,%20I'm%20Vaibhav%20Pal&fontSize=45&fontColor=FFFFFF&animation=twinkling"/>
-
-<h1 align="center">Hi 👋, I'm Vaibhav Pal</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG"/>
 </p>
