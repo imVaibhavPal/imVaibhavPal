@@ -82,7 +82,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=imVaibhavPal&theme=tokyonight&hide_border=true)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imVaibhavPal&theme=tokyo-night)](https://github.com/imVaibhavPal)
 ![](https://komarev.com/ghpvc/?username=imVaibhavPal&style=flat-square&color=blue)
-![Snake animation](https://raw.githubusercontent.com/imVaibhavPal/imVaibhavPal/output/github-contribution-grid-snake-dark.svg)
+
 
 ## 📋 GitHub Summary
 
@@ -116,22 +116,9 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-## 🏆 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/vaibhavkumarPal2003?theme=dark&font=Karma&ext=contest"/>
-</p>
-
 <a href="https://www.codechef.com/users/crash_zone_64">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
-
-<p align="center">
-<a href="https://www.codechef.com/users/crash_zone_64">
-<img src="https://img.shields.io/badge/CodeChef-1★-brown?style=for-the-badge&logo=codechef"/>
-</a>
-</p>
-
 </p>
 
 
