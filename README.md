@@ -77,13 +77,7 @@
 
   
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=imVaibhavPal&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imVaibhavPal&theme=tokyo-night" />
-</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=imVaibhavPal&theme=tokyonight&hide_border=true)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imVaibhavPal&theme=tokyo-night)](https://github.com/imVaibhavPal)
