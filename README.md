@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=180&section=header&text=Vaibhav%20Kumar%20Pal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1A1B27,30:24283B,70:3B4261,100:7AA2F7&text=Hi%20👋,%20I'm%20Vaibhav%20Pal&fontSize=45&fontColor=FFFFFF&animation=twinkling"/>
 
 <h1 align="center">Hi 👋, I'm Vaibhav Pal</h1>
 <p align="center">
