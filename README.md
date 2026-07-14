@@ -74,6 +74,11 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imVaibhavPal&theme=tokyo-night)](https://github.com/imVaibhavPal)
 ![](https://komarev.com/ghpvc/?username=imVaibhavPal&style=flat-square&color=blue)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imVaibhavPal/imVaibhavPal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ## 📋 GitHub Profile Summary
 
