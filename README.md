@@ -13,12 +13,8 @@
 - 💬 Ask me about Python, C++
 - 🌱 Open to internships and collaboration
 - 📫 How to reach me vkpal8300@gmail.com
+
   
-
-## Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vaibhav-kumar-pal-955aa6293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
@@ -90,11 +86,11 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/vaibhav-kumar-pal-955aa6293/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:vkpal8300@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vkpal8300@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
