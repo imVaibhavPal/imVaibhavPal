@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Pal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?   font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG"/>
 </p>
 
 
@@ -79,13 +79,14 @@
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imVaibhavPal&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imVaibhavPal&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imVaibhavPal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imVaibhavPal&layout=compact&theme=tokyonight&hide_border=true"/>
 ![GitHub Streak](https://streak-stats.demolab.com?user=imVaibhavPal&theme=tokyonight&hide_border=true)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imVaibhavPal&theme=tokyo-night)](https://github.com/imVaibhavPal)
 [![trophy](https://github-profile-trophy.vercel.app/?username=imVaibhavPal&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true)]
 ![](https://komarev.com/ghpvc/?username=imVaibhavPal&style=flat-square&color=blue)
 ![Snake animation](https://raw.githubusercontent.com/imVaibhavPal/imVaibhavPal/output/github-contribution-grid-snake-dark.svg)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imVaibhavPal&theme=tokyonight">
+
 
 
 ## 📫 Connect With Me
