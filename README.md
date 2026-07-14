@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=180&section=header&text=Vaibhav%20Kumar%20Pal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 <h1 align="center">Hi 👋, I'm Vaibhav Pal</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG"/>
