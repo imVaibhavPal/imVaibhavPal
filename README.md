@@ -104,10 +104,6 @@
 
 <p align="left">
 
-## 🌐 Coding Profiles
-
-## 🌐 Coding Profiles
-
 [![LeetCode](https://img.shields.io/badge/LEETCODE-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/vaibhavkumarPal2003/)
 
 
