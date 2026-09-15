@@ -104,13 +104,10 @@
 
 <p align="left">
 
-<a href="https://leetcode.com/u/vaibhavkumarPal2003/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+## 🌐 Coding Profiles
 
-## 🏆 LeetCode
+[![LeetCode](https://img.shields.io/badge/LEETCODE-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/vaibhavkumarPal2003/) [![50 Days Badge](https://img.shields.io/badge/50%20DAYS-BADGE-E85D04?style=for-the-badge)](https://leetcode.com/u/vaibhavkumarPal2003/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-50%20Days%20Badge-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/vaibhavkumarPal2003/)
 
 <a href="https://www.codechef.com/users/crash_zone_64">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
