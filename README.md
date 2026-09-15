@@ -108,6 +108,22 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+## 🧩 Problem Solving
+
+### LeetCode Journey
+
+🏆 **50 Days of Consistent Problem Solving**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/vaibhavkumarPal2003/)
+
+## 🏆 LeetCode Badges
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=https://leetcode.com/u/vaibhavkumarPal2003/)
+
+- 🔥 50 Days LeetCode Streak
+- 💻 Consistent DSA Practice
+- 📚 Practicing Arrays, Strings, Linked Lists, Stack, Queue, Binary Search and more
+
 <a href="https://www.codechef.com/users/crash_zone_64">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
