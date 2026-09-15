@@ -106,7 +106,9 @@
 
 ## 🌐 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/vaibhavkumarPal2003/) [![50 Days Badge](https://img.shields.io/badge/50%20DAYS-BADGE-E85D04?style=for-the-badge)](https://leetcode.com/u/vaibhavkumarPal2003/)
+## 🌐 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LEETCODE-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/vaibhavkumarPal2003/)
 
 
 <a href="https://www.codechef.com/users/crash_zone_64">
